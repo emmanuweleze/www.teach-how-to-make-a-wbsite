@@ -1,0 +1,58 @@
+.name    {
+    text-align: center;
+     color: rgb(85, 5, 5);
+     text-shadow: 1px 2px;
+}     
+.tel    {
+color: rgb(15, 48, 121);
+text-shadow: 1px,2px;
+text-align: right;
+}
+header   {
+        color: rgb(11, 39, 161);
+text-align: center;
+border-radius: 10px;
+}
+nav{
+
+ text-align: center;
+ background-color: rgb(4, 32, 68);
+   
+ }
+
+nav a{
+color: rgb(71, 6, 6);
+background-color: blue;
+
+}
+header {
+top: 10px;
+}
+header {
+background-color: rgb(170, 168, 16); 
+
+}
+
+.learn {
+border-radius: 10px;
+font-size: 20px;
+color: blue;
+}
+img{
+height: 540px; 
+width:  1300px;
+
+
+}
+body{
+    background-color: darkgreen;
+}
+
+
+
+
+
+
+
+  
+
